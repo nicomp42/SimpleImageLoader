@@ -1,3 +1,4 @@
+// This is semi-cool.
 package simpleImageLoader;
 /*
  * Adapted from this book:
